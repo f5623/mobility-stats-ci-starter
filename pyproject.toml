@@ -26,6 +26,7 @@ extend-select = [
     "B",   # flake8-bugbear
     "UP",  # modern Python syntax
     "E",   # pycodestyle errors
+    "F",   # pyflakes (undefined names, unused imports)
 ]
 
 [tool.pytest.ini_options]
