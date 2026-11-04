@@ -25,7 +25,6 @@ extend-select = [
     "I",   # import sorting
     "B",   # flake8-bugbear
     "UP",  # modern Python syntax
-    "E",  # pycodestyle errors
 ]
 
 [tool.pytest.ini_options]
